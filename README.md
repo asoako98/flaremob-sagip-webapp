@@ -4,3 +4,6 @@ A web application for the project FlareMob.
 
 Developers:
 Nikko, Gino, Javs, Mike
+
+*note 
+There are some editions that work
